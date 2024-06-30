@@ -1,0 +1,3 @@
+- Visual Studio 2019
+- boost_1_82_0
+- C++ 14
